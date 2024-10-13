@@ -1,0 +1,10 @@
+*{
+    margin: 5px;
+    padding: 0px;
+}
+
+body {
+    background-image: url("3.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
